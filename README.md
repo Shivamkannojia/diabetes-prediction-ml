@@ -2,11 +2,11 @@
 
 This repository contains my work for a diabetes prediction competition, where I built and evaluated machine learning models using structured medical data.
 
-## 🏆 Achievements
+## Achievements
 - **Ranked 999/4,500+ (Top 22%)** in the [Kaggle Playground Series S5E12 Competition](https://www.kaggle.com/competitions/playground-series-s5e12/leaderboard).
 - Achieved an **ROC-AUC Score of 0.69997**.
 
-## 🔍 Overview
+## Overview
 - End-to-end ML pipeline
 - Exploratory Data Analysis (EDA)
 - Feature engineering
@@ -14,14 +14,14 @@ This repository contains my work for a diabetes prediction competition, where I 
 - Model ensembling
 - Evaluation using ROC-AUC
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - Pandas, NumPy
 - Scikit-learn
 - XGBoost
 - Matplotlib, Seaborn
 
-## 📁 Files
+## Files
 - `diabetes_prediction.ipynb` – Main notebook
 
 ## ⚠️ Dataset
